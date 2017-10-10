@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FabianZavala/wolf/issues"
   },
-  "homepage": "https://github.com/FabianZavala/wolf#readme"
+  "homepage": "https://github.com/FabianZavala/wolf#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
